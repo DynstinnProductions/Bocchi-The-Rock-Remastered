@@ -28,6 +28,7 @@ c) I got nothing better to do in highschool IG ＼（〇_ｏ）／
 Select the solution in VS Code and run it, or just press F5. Should be that simple, if not, then please refer to the official MonoGame Docs for fixing any erros you might encounter.
 
 [THE C++ OPENGL FRAMEWORK I USE:](https://github.com/MonoGame/MonoGame)
+
 [THE DOCS TO MONOGAME:](https://docs.monogame.net/)
 
 ## Also refer to it if you want to make changes to my code
